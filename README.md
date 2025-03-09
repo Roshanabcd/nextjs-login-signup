@@ -1,8 +1,8 @@
-Next.js Login and Signup Project
-<img src="https://img.shields.io/badge/Next.js-15.2.1-blue" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-5.0.0-blue" alt="TypeScript" />
-<img src="https://img.shields.io/badge/MongoDB-6.0.0-blue" alt="MongoDB" />
-<img src="https://img.shields.io/badge/bcrypt-5.0.0-blue" alt="bcrypt" />
+Next.js Login and Signup Project<br/>
+<img src="https://img.shields.io/badge/Next.js-15.2.1-blue" alt="Next.js" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-5.0.0-blue" alt="TypeScript" /><br/>
+<img src="https://img.shields.io/badge/MongoDB-6.0.0-blue" alt="MongoDB" /><br/>
+<img src="https://img.shields.io/badge/bcrypt-5.0.0-blue" alt="bcrypt" /><br/>
 
 A modern Login and Signup system built with Next.js, TypeScript, and MongoDB. This project demonstrates how to implement user authentication with password hashing using bcrypt.
 
